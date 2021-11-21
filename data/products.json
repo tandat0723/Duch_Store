@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "name": "iPhone 13 Pro Max",
+  "description": "Apple A15 Bionic,ROM: 1TB, RAM: 6GB, IOS 15.0",
+  "price": 45000000,
+  "images": "images/13pm.png",
+  "category_id": 1
+}, {
+  "id": 2,
+  "name": "iPad Pro 2021",
+  "description": "Apple M1, ROM: 512GB, RAM: 8GB, IOS 14.5",
+  "price": 13000000,
+  "images": "images/ipadpro.png",
+  "category_id": 2
+}, {
+  "id": 3,
+  "name": "Apple Watch Series 7",
+  "description": "Apple, Always-On, ROM: 32GB, WatchOS 8.0",
+  "price": 13000000,
+  "images": "images/watch7.png",
+  "category_id": 3
+},{
+  "id": 4,
+  "name": "Macbook Pro 16' 2021",
+  "description": "Apple M1 Max, ROM: 1T, RAM: 32GB, MacOS",
+  "price": 79900000,
+  "images": "images/macpro.png",
+  "category_id": 4
+},{
+  "id": 5,
+  "name": "iPad Mini 6 2021",
+  "description": "Apple A15 Bionic, ROM: 256GB, RAM: 4GB, IOS",
+  "price": 25990000,
+  "images": "images/mini6.png",
+  "category_id": 2
+}]
